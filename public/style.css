@@ -62,3 +62,12 @@ button {
 .message strong {
     color: #3498db;
 }
+
+#logo{
+    width: 20vw;
+    height: 23vh;
+    display: inline-block;
+    position: absolute;
+    top: 0vh;
+    left: 40vw;
+}
